@@ -1,0 +1,283 @@
+PMID- 17925111
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20071010
+PUBM- Print
+IS  - 1471-1893 (Print)
+VI  - 33
+IP  - 4
+DP  - 2007 Oct
+TI  - Gauging acceptance of a hepatitis C test by family planning clinic attendees in
+      Glasgow, UK.
+PG  - 263-6
+AB  - BACKGROUND: In the UK, pregnant women are not offered and recommended a hepatitis
+      C virus (HCV) test because no effective intervention to prevent vertical
+      transmission of HCV exists following conception. Mother-to-child transmission of 
+      HCV could, however, be reduced if infected women planning to have children
+      underwent a course of therapy prior to conception. OBJECTIVE: To determine what
+      proportion of female family planning clinic (FPC) attendees would hypothetically 
+      accept an HCV test if they were offered it and to identify the factors associated
+      with such a decision. METHODS: Opportunistic sampling was used to recruit 1000
+      women attending FPCs in Glasgow during 2002/2003. Participants were asked to
+      self-complete a brief questionnaire about HCV and testing. RESULTS: Of 964
+      participants, 62% reported that they would accept an HCV test if it was offered
+      in the family planning setting and 24% indicated that they were undecided. Only
+      4% of women reported that they would be offended if offered an HCV test. The
+      highest rates of hypothetical acceptance of an HCV test were reported among those
+      who had ever injected drugs (88%) and those who felt that they were at risk of
+      being infected with HCV (84%). Women who were single [adjusted odds ratio (OR)
+      1.4, 95% CI 1.1-1.8] and who were of non-white ethnic origin (adjusted OR 2.5,
+      95% CI 1.0-6.2) were also significantly more inclined to hypothetically accept an
+      HCV test. CONCLUSION: Selective HCV testing to those women at high risk of HCV
+      infection should be encouraged in the family planning setting.
+AD  - Health Protection Scotland, Glasgow, UK.
+FAU - Sharp, Laura
+AU  - Sharp L
+FAU - Hutchinson, Sharon J
+AU  - Hutchinson SJ
+FAU - Goldberg, David
+AU  - Goldberg D
+FAU - Taylor, Avril
+AU  - Taylor A
+FAU - Carr, Susan
+AU  - Carr S
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Fam Plann Reprod Health Care
+JT  - The journal of family planning and reproductive health care / Faculty of Family
+      Planning & Reproductive Health Care, Royal College of Obstetricians &
+      Gynaecologists
+JID - 101087687
+SB  - IM
+EDAT- 2007/10/11 09:00
+MHDA- 2007/10/11 09:00
+AID - 10.1783/147118907782101805 [doi]
+PST - ppublish
+SO  - J Fam Plann Reprod Health Care. 2007 Oct;33(4):263-6.
+
+PMID- 17924968
+OWN - NLM
+STAT- Publisher
+DA  - 20071010
+PUBM- Print-Electronic
+IS  - 0009-9104 (Print)
+DP  - 2007 Oct 9
+TI  - Interactive effects of immunoglobulin gamma and human leucocyte antigen genotypes
+      on clearance and persistence of infection with hepatitis C virus.
+AB  - Particular alleles of human leucocyte antigen (HLA) and immunoglobulin gamma (GM)
+      and immunoglobulin kappa (KM) allotypes (polymorphic determinants of IgG heavy
+      chains and kappa-type light chains, respectively) are associated with the outcome
+      of several infections. To examine their role in the outcome of hepatitis C virus 
+      (HCV) infection, we genotyped 50 individuals with resolved and 117 with
+      persistent HCV infection. None of the GM, KM or HLA-C genotypes by themselves
+      were associated with the resolution or persistence of HCV infection. However,
+      particular combinations of HLA and GM genotypes were associated significantly
+      with the outcome of HCV infection. Subjects with the HLA C1C1 genotype, in the
+      absence of GM ff, were more than seven times [odds ratio (OR) 7.15] as likely to 
+      have persistent infection as the subjects who lacked both these genotypes. The
+      presence of GM ff, in the absence of HLA C1C2, was associated with the resolution
+      of infection (OR 0.27). The absence of GM fz, in the presence of HLA C2C2, was
+      also associated with the resolution of infection (OR 0.27). Compared to the
+      subjects who lacked both these genotypes, subjects with GM fz, in the absence of 
+      HLA C1C2, were almost four times as likely to have persistent infection (OR
+      3.91); similarly, subjects with HLA C1C2, in the absence of GM fz, were almost
+      three times as likely to have persistent infection (OR 2.80). These results show,
+      for the first time, interactive effects of GM and HLA genotypes in the outcome of
+      HCV infection.
+AD  - Department of Microbiology and Immunology, Medical University of South Carolina, 
+      Charleston, SC, USA.
+AU  - Pandey JP
+AU  - Montes-Cano MA
+AU  - Aguilar-Reina J
+AU  - Gonzalez-Escribano MF
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20071009
+TA  - Clin Exp Immunol
+JID - 0057202
+EDAT- 2007/10/11 09:00
+MHDA- 2007/10/11 09:00
+AID - CEI3519 [pii]
+AID - 10.1111/j.1365-2249.2007.03519.x [doi]
+PST - aheadofprint
+SO  - Clin Exp Immunol. 2007 Oct 9;.
+
+PMID- 17924848
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20071010
+PUBM- Print
+IS  - 1434-6621 (Print)
+VI  - 45
+IP  - 10
+DP  - 2007
+TI  - Cytokines and growth factors in mostly atherosclerotic patients on hemodialysis
+      determined by biochip array technology.
+PG  - 1347-52
+AB  - Background: The lifespan of patients with chronic renal failure (CRF) is reduced,
+      and coronary artery disease is the leading cause of morbidity and mortality in
+      these patients. The progression of atherosclerosis is accelerated and
+      angiogenesis is impaired in CRF. Risk factors that could contribute to further
+      understanding of vascular pathology include markers of inflammation and growth
+      factors. The purpose of this study was to determine the levels of cytokines
+      (IL-2, IL4, IL-6, IL-8, IL-10, IL-1alpha, IL-1beta), vascular endothelial growth 
+      factor (VEGF), epidermal growth factor (EGF), interferon-gamma (IFNgamma), tumor 
+      necrosis factor-alpha (TNFalpha) and monocyte chemotactic protein-1 (MCP-1) in
+      patients on chronic hemodialysis (HD; n=75), and to compare values with those of 
+      control subjects (n=113). Methods: Evidence((R)) biochip array analyzer was used 
+      for quantification of plasma concentrations in samples. Results: Significant
+      differences were found between the control subjects and HD patients. IL-2
+      (p<0.001), IL-4 (p<0.001) and EGF (p<0.001) levels were higher in controls than
+      in HD patients, while IL-6 (p<0.001), IL-8 (p=0.081), IL-10 (p=0.008), TNFalpha
+      (p<0.001), IL-1beta (p<0.001) and MCP-1 (p<0.001) levels were higher in HD
+      patients. We also found IL-2 (p=0.015) and IL-1alpha (p=0.035) levels to be
+      significantly higher in males than females, while IL-4 (p=0.025) and IL-1beta
+      (p=0.049) levels were significantly higher in females. Among HD patients, IL-2
+      levels were higher in patients under the age of 50 years (p<0.048). It was also
+      higher in female than in male patients (p<0.035) and in patients on HD for more
+      than 10 years (p<0.009). IL-6 levels were higher in patients over the age of 50
+      years (p<0.047). Patients with previous glomerulonephritis had the highest level 
+      of IL-6 compared to patients with previous pyelonephritis and diabetes mellitus
+      (p<0.063). IL-6 levels were higher in patients with concomitant hepatitis C virus
+      (HCV) infection (p<0.036) and in patients with developed atherosclerosis
+      (p<0.003). IL-8 levels were higher in patients over the age of 50 years (p<0.003)
+      and in the group with previous glomerulonephritis (p<0.031). IL-10 levels were
+      higher in the group with developed atherosclerosis (p<0.045). EGF was the highest
+      in the group of patients with previous diabetes mellitus compared to
+      pyelonephritis and glomerulonephritis groups (p<0.073). TNFalpha levels were
+      higher in the patient population on HD for more than 10 years (p<0.032) and in
+      the concomitant HCV group (p<0.073). IL-1beta levels were higher in the HCV group
+      (p<0.088). Conclusions: Plasma concentrations of some cytokines and growth
+      factors could serve as useful diagnostic and prognostic parameters for patients
+      with CRF on HD. Clin Chem Lab Med 2007;45:1347-52.
+AD  - 1Department of Clinical Chemistry, Zagreb University School of Medicine, Zagreb, 
+      Croatia and Clinical Institute of Laboratory Diagnosis, Zagreb University
+      Hospital Center, Zagreb, Croatia.
+FAU - Sertic, Jadranka
+AU  - Sertic J
+FAU - Slavicek, Jasna
+AU  - Slavicek J
+FAU - Bozina, Nada
+AU  - Bozina N
+FAU - Malenica, Branko
+AU  - Malenica B
+FAU - Kes, Petar
+AU  - Kes P
+FAU - Reiner, Zeljko
+AU  - Reiner Z
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Clin Chem Lab Med
+JT  - Clinical chemistry and laboratory medicine : CCLM / FESCC
+JID - 9806306
+SB  - IM
+EDAT- 2007/10/11 09:00
+MHDA- 2007/10/11 09:00
+AID - 10.1515/CCLM.2007.321 [doi]
+PST - ppublish
+SO  - Clin Chem Lab Med. 2007;45(10):1347-52.
+
+PMID- 17924170
+OWN - NLM
+STAT- Publisher
+DA  - 20071009
+PUBM- Print-Electronic
+IS  - 1525-1497 (Electronic)
+DP  - 2007 Oct 9
+TI  - Awareness of Hepatitis C Infection Among Women With and At Risk for HIV.
+AB  - BACKGROUND: Treatment guidelines recommend all HIV/HCV-co-infected persons be
+      considered for hepatitis C virus (HCV) treatment, yet obstacles to testing and
+      accessing treatment for HCV continue for women. OBJECTIVE: To assess awareness of
+      HCV, and describe diagnostic referrals and HCV treatment among women in the
+      Women's Interagency HIV Study (WIHS). DESIGN: Prospective epidemiologic cohort.
+      PARTICIPANTS: Of 3,768 HIV-infected and uninfected women in WIHS, 1,166 (31%)
+      were HCV antibody positive. MEASUREMENTS AND MAIN RESULTS: Awareness of HCV
+      infection and probability of referrals for diagnostic evaluations and treatment
+      using logistic regression. Follow-up HCV information was available for 681 (390
+      died, 15 withdrew, 80 missed visit) in 2004. Of these 681, 522 (76.7%) reported
+      knowing their HCV diagnosis. Of these, 247 of 522 (47.3%) stated their providers 
+      recommended a liver biopsy, whereas 139 of 247 or 56.3% reported having a liver
+      biopsy. A total of 170 of 522 (32.6%) reported being offered treatment and 74.1% 
+      (n = 126 of 170) reported receiving HCV treatment. In multivariate regression
+      analyses, African-American race, Hispanic/Latina ethnicity, poverty, and current 
+      crack/cocaine/heroin use were negatively associated with treatment referrals,
+      whereas elevated alanine aminotransferase (ALT) was associated with increased
+      likelihood of referral and increased likelihood of treatment. CONCLUSION: One
+      quarter of women with HCV in this cohort were not aware of their diagnosis. Among
+      those aware of their HCV, 1 in 4 received liver biopsy and treatment for HCV.
+      Both provider and patient education interventions regarding HCV testing and HCV
+      treatment options and guidelines are needed to enhance HCV awareness and
+      participation in HCV evaluation and treatment.
+AD  - CORE Center, Cook County Bureau of Health Services, Chicago, IL, USA.
+AU  - Cohen MH
+AU  - Grey D
+AU  - Cook JA
+AU  - Anastos K
+AU  - Seaberg E
+AU  - Augenbraun M
+AU  - Burian P
+AU  - Peters M
+AU  - Young M
+AU  - French A
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20071009
+TA  - J Gen Intern Med
+JID - 8605834
+EDAT- 2007/10/10 09:00
+MHDA- 2007/10/10 09:00
+PHST- 2007/03/28 [received]
+PHST- 2007/09/18 [accepted]
+PHST- 2007/09/07 [revised]
+PHST- 2007/10/09 [aheadofprint]
+AID - 10.1007/s11606-007-0395-x [doi]
+PST - aheadofprint
+SO  - J Gen Intern Med. 2007 Oct 9;.
+
+PMID- 17924066
+OWN - NLM
+STAT- Publisher
+DA  - 20071009
+PUBM- Print
+IS  - 1436-9990 (Print)
+VI  - 50
+IP  - 10
+DP  - 2007 Oct
+TI  - [HIV, HCV, HBV and syphilis infections among blood donors in Germany 2005. Report
+      from the Robert Koch Institute in accordance with Article 22 of the Transfusion
+      Act.]
+PG  - 1221-1231
+AB  - The Robert Koch Institute collects and evaluates data on the prevalence and
+      incidence of HIV, hepatitis C (HCV), hepatitis B (HBV) and syphilis infections
+      among blood and plasma donors in Germany according to article 22 of the
+      Transfusion Act. The surveillance data permit an assessment of the occurrence of 
+      infections in the blood donor population and consequently the safety of the
+      collected donations. This report includes data from all blood donation services
+      in Germany for 2005. In total, 6.26 million donations or blood samples from
+      prospective donors were screened. The prevalence of the relevant infections was
+      6.1/100,000 for HIV, 81.2/100,000 for HCV, 143.9/100,000 for HBV and 35.6/100,000
+      donations for syphilis. The rate of seroconversions/100,000 donations was 0.9 for
+      HIV, 1.4 for HCV, 0.9 for HBV and 2.3 for syphilis. The analysis showed a very
+      low incidence of infections with a decreasing trend for HCV infections among
+      first time donors and an increase in incident HIV and syphilis infections since
+      1999. The latter has to be monitored carefully and possible causes need to be
+      evaluated.
+AD  - Robert Koch-Institut, Berlin, BRD.
+AU  - Offergeld R
+AU  - Ritter S
+AU  - Hamouda O
+LA  - GER
+PT  - JOURNAL ARTICLE
+TT  - Infektionsepidemiologische Daten von Blutspendern 2005 : Bericht des Robert
+      Koch-Instituts zu den Meldungen nach section sign 22 Transfusionsgesetz.
+TA  - Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz
+JID - 101181368
+EDAT- 2007/10/10 09:00
+MHDA- 2007/10/10 09:00
+AID - 10.1007/s00103-007-0332-5 [doi]
+PST - ppublish
+SO  - Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2007
+      Oct;50(10):1221-1231.
+

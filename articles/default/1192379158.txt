@@ -1,0 +1,48 @@
+PMID- 17923840
+OWN - NLM
+STAT- Publisher
+DA  - 20071009
+PUBM- Print-Electronic
+IS  - 1525-0016 (Print)
+DP  - 2007 Oct 9
+TI  - Vaccination Against Hepatitis C Virus With Dendritic Cells Transduced With an
+      Adenovirus Encoding NS3 Protein.
+AB  - Chronic infection by hepatitis C virus (HCV) is characterized by the absence of
+      efficient antiviral T-cell responses. Thus, vaccination strategies to induce
+      strong anti-HCV T-cell responses are of paramount importance for prophylactic and
+      therapeutic purposes. Dendritic cells (DCs) are the most potent antigen
+      presenting cells; therefore, immunization with these cells loaded with viral
+      antigens offers a new approach for induction of antiviral immunity. Here we show 
+      that immunization with DCs transfected with an adenovirus encoding non-structural
+      3 protein, from HCV (AdNS3), induced multiepitopic CD4 T helper cell 1 (Th1) and 
+      CD8 T-cell responses in different mouse strains. These responses prevented the
+      growth of a tumorexpressing HCV proteins, in short- and long-term experiments.
+      Moreover, immunization with AdNS3-transfected DCs did not induce anti-adenoviral 
+      antibodies, as compared to direct immunization with AdNS3, but elicited T-cell
+      responses even in the presence of pre-existing anti-adenoviral antibodies.
+      Finally, responses induced by this protocol down-regulated the expression of HCV 
+      RNA in the liver. In conclusion, DCs transfected with AdNS3 may prove to be an
+      efficient anti-HCV vaccine.Molecular Therapy doi:10.1038/sj.mt.6300333.
+AD  - 1Division of Hepatology and Gene Therapy, Center for Applied Medical Research
+      (CIMA), University of Navarra, Pamplona, Spain.
+AU  - Zabaleta A
+AU  - Llopiz D
+AU  - Arribillaga L
+AU  - Silva L
+AU  - Riezu-Boj JI
+AU  - Lasarte JJ
+AU  - Borras-Cuesta F
+AU  - Prieto J
+AU  - Sarobe P
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20071009
+TA  - Mol Ther
+JID - 100890581
+EDAT- 2007/10/10 09:00
+MHDA- 2007/10/10 09:00
+PHST- 2007/10/09 [aheadofprint]
+AID - 6300333 [pii]
+AID - 10.1038/sj.mt.6300333 [doi]
+PST - aheadofprint
+SO  - Mol Ther. 2007 Oct 9;.

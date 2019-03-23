@@ -1,0 +1,15 @@
+# File: VERSION
+
+2005-10-20	V0.12
+
+Basic interface and administer function of browse, import, edit and modify etc.
+
+2007-10-12	V0.15
+1. Update script init.php. 
+2. Basic dual language interface.
+3. Basic user managment by using session.
+
+2007.10.14	V0.20
+1. Improved interface.
+2. Language switch by using session.
+3. Fixed many bugs.

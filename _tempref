@@ -1,0 +1,63 @@
+PMID- 11717435
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011121
+DCOM- 20020108
+LR  - 20061115
+PUBM- Print
+IS  - 0027-8424 (Print)
+VI  - 98
+IP  - 24
+DP  - 2001 Nov 20
+TI  - Evaluation of methods for detecting recombination from DNA sequences: computer
+      simulations.
+PG  - 13757-62
+AB  - Recombination is a key evolutionary process that shapes the architecture of
+      genomes and the genetic structure of populations. Although many statistical
+      methods are available for the detection of recombination from DNA sequences,
+      their absolute and relative performance is still unknown. Here we evaluated the
+      performance of 14 different recombination detection algorithms. We used the
+      coalescent with recombination to simulate DNA sequences with different levels of 
+      recombination, genetic diversity, and rate variation among sites. Recombination
+      detection methods were applied to these data sets, and whether they detected or
+      not recombination was recorded. Different recombination methods showed distinct
+      performance depending on the amount of recombination, genetic diversity, and rate
+      variation among sites. The model of nucleotide substitution under which the data 
+      were generated did not seem to have a significant effect. Most methods increase
+      power with more sequence divergence. In general, recombination detection methods 
+      seem to capture the presence of recombination, but they are not very powerful.
+      Methods that use substitution patterns or incompatibility among sites were more
+      powerful than methods based on phylogenetic incongruence. Most methods do not
+      seem to infer more false positives than expected by chance. Especially depending 
+      on the amount of diversity in the data, different methods could be used to attain
+      maximum power while minimizing false positives. Results shown here will provide
+      some guidance in the selection of the most appropriate method/s for the analysis 
+      of the particular data at hand.
+AD  - Department of Zoology, Brigham Young University, Provo, UT 84602, USA.
+      dposada@variagenics.com
+FAU - Posada, D
+AU  - Posada D
+FAU - Crandall, K A
+AU  - Crandall KA
+LA  - eng
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov\'t
+PT  - Research Support, U.S. Gov\'t, Non-P.H.S.
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+SB  - IM
+MH  - *Computer Simulation
+MH  - *Models, Genetic
+MH  - *Models, Statistical
+MH  - *Recombination, Genetic
+MH  - Sequence Analysis, DNA/*methods
+PMC - PMC61114
+EDAT- 2001/11/22 10:00
+MHDA- 2002/01/10 10:01
+AID - 10.1073/pnas.241370698 [doi]
+AID - 98/24/13757 [pii]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2001 Nov 20;98(24):13757-62.

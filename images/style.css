@@ -1,0 +1,164 @@
+<!--
+/*-----------------------------------------------------------------------
+ * FileName: style.css
+ * Create Date: 2005-10-20
+ * Desciption: 样式表
+-----------------------------------------------------------------------*/
+/* body */
+body {
+	font-family: "SinSum", "Times New Roman";
+	font-size: 12px;
+	text-align: left;
+	background-color: #FAEBD7;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* 链接 */
+a:link {
+	text-decoration: none;
+	color: Black;
+	font-size: 12px;
+}
+a:visited {
+	text-decoration: none;
+	color: #60263f;
+	font-size: 12px;
+}
+a:hover {
+	text-decoration: none;
+	color: #b50000;
+	font-size: 12px;
+}
+a:active {
+	text-decoration: none;
+	color: #3399ff;
+	font-size: 12px;
+}
+/* 主表格*/
+table.main {
+	font: 12px;
+	border-collapse: collapse;
+	empty-cells: hide;
+	border: 0px;
+}
+/*左侧的索引表格*/
+table.index {
+	font: 12px;
+	empty-cells: hide;
+	border: 1px solid Navy;
+	background: #D8BFD8;
+	border-collapse: separate;
+	width: 95%;
+}
+
+tr.tbl_index_head {
+	border: 1px solid #4169e1;
+	font: 12px 宋体;
+	background: #5F9EA0;
+	border-collapse: collapse;
+	color: #ffffff;
+}
+
+tr.tr_title {
+	height: 60px;
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	border-bottom: 1px solid Navy;
+	border: 1px solid Navy;
+}
+td.td_title {
+	height: 60px;
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	border-bottom: 1px solid Navy;
+}
+td.signature{
+	font-family: Arial;
+	font-size: inherit;
+}
+/* 右侧内容(容器)表格*/
+table.tbl_container {
+	border: 1px solid Navy;
+	width: 98%;
+}
+tr.tbl_container_head {
+	border: 1px solid Navy;
+	font: 16px 宋体;
+	background: #191970;
+	color: #FAFAD2;
+}
+td.td_container_title {
+	
+}
+/*用于封面的表格*/
+table.cover{
+/*	background: White; */
+	border: 1px solid #006400;
+	width: 100%;
+}
+/*用于表单的表格*/
+table.form {
+	border: 1px solid Navy;
+	font: 12px 宋体, "Times New Roman";
+	border-collapse: collapse;
+	empty-cells: show;
+	width: 100%;
+	}
+td.td_form {
+	border: 1px solid Navy;
+}
+td.td_form_item{
+	border: 1px solid Navy;
+	background: #B0E0E6;
+}
+td.td_form_item_need{
+	border: 1px solid Navy;
+	background: #7FFFD4;
+}
+/* 表单 */
+form.addrec {
+	font: 12px;
+}
+
+/* 用于显示查询结果的表格 */
+table.query {
+	border: 1px solid Navy;
+	font: 12px 宋体, "Times New Roman";
+	border-collapse: collapse;
+	empty-cells: show;
+	width: 100%;
+	}
+tr.query_head {
+	background: #ADD8E6;
+	font: normal bold 12px;
+}
+td.td_query {
+	border: 1px solid Navy;
+	margin: 2px 5px 2px 5px;
+	padding: 2px 5px 2px 5px;
+	font: 13px Arial;
+}
+/* 显示一条记录的具体信息 */
+table.disp_rec {
+	border: 1px solid Navy;
+	font: 12px Arial;
+	border-collapse: collapse;
+	empty-cells: show;
+}
+table.disp_page{
+	border: 1px solid Navy;
+	font: 12px monospace;
+}
+td.disp_rec_key {
+	border: 1px solid Navy;
+	margin: 2px 5px 2px 5px;
+	padding: 2px 5px 2px 5px;
+	background: #B0C4DE;
+}
+td.disp_rec {
+	border: 1px solid Navy;
+	margin: 2px 5px 2px 5px;
+	padding: 2px 5px 2px 5px;
+}
+-->

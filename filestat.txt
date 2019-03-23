@@ -1,0 +1,31 @@
+File					Status		Memo
+========				========	========
+addDataSuccess.php			-		renamed to "_addDataSuccess.php"
+addRefData.php				ok
+adminLogin.php				ok
+confirmLogin.php			-		renamed to "_confirmLogin.php"
+cover.php				ok
+delRefRec.php				+>		need more test
+dispRefData.php				ok
+dispRefPage.php				ok
+delRefRec.php				ok
+editRefRec.php				ok
+exeImportMedline.php			+>		need more test
+globalvar.php				+>
+index.html				ok
+init.php				+>		default user and admin priviledge
+importMedline.php			ok
+logout.php				ok
+menu.php				+>		chn/eng switch
+searchRefData.php			ok
+updateRefData.php			+>		need more test
+
+
+
+
+
+=====================================
+ok	completed
+-	removed
++>	need to be updated
+...	working

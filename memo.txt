@@ -1,0 +1,22 @@
+Memo
+
+Project: 
+
+Refman
+
+Content:
+1. Two types of user:
+(1) Normal user: 
+* Don't need login.
+* Don't have an account in database.
+* Able to browse records ONLY.
+(2) Administrator
+* Need login.
+* Have an account in database.
+* Able to add/import, edit, delete records.
+(3) Manager
+* Need login
+* Have an account in database
+* Able to add/import, edit (post appendix only), delete records.
+
+2. Use session to manage administrator login.
